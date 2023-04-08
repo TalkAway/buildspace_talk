@@ -83,9 +83,12 @@
 
 # Internal Structure
 
+**GPS para acompanhar a caminhada od tutor e estudante**
+
+
 Check in and check out of each experience
 
-**Student Journey
+**Student Journey**
 
 After checking in, the student sees the Journey logbook:
 
@@ -100,6 +103,10 @@ The tutor will check each of them according to the student's process.
 When they are all filled in, the student receives the SBT of proficiency level (onchain)
 
 Each writing on the hikes will accumulate, building up a big notebook and go into a specific folder (offchain)
+
+Will have a phrases propose while the walking, the student will choose if he is on street or in a coffee, for exemple,
+and each 10 minutoes the app will suggest a phrase like this: "stop and look the heaven" or "touch the table and indentificate your material" 
+- for each level we will generate a kind of phrase propose. 
 
 # Payment
 
