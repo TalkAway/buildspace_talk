@@ -6,31 +6,32 @@
 
 **Types**
 
-**Traveling Student**: Earns level 0 certificate only | takes between 1-4 classes | Traveler | Digital Nomad |  
+**Casual Student**: Earns level 0 certificate only | takes between 1-4 classes | Traveler | Digital Nomad |  
 
 **Regular Student**: Earns up to 6 certificates | takes 4 or more classes | City Resident
 
-**Tour Guide Instructor: Certified Tour Guide in Rio de Janeiro and associated to LIGUIA, works with groups of up to 4 students.
+**Tour Guide Instructor: Certified Tour Guide in Rio de Janeiro and associated to LIGUIA, works with groups of up to 4 students 
+| need to do a formation of Talk Away - recorded classes.
 
-**Native Tutor**: Native |Does not need to be a teacher |need to do a formation of Talk Away - alive and online.
+**Casual Tutor**: Native |Does not need to be a teacher 
+
+**Regular Tutor** This tutor can give the proficiency level certification | need to do a formation of Talk Away - recorded classes.
 
 # Overview of the Structure
 
-**Menu**
+**Topics**
 
-- Tutors
+- Casual lessons 
 
-- Community
+- Certificated Lessons
 
-- Portfolio
+- Talk Walk Tour 
 
-- About me 
-
-- Become a Student 
+- Be a Student 
 
 - Be a Tutor 
 
-**Registration
+**Registration**
 
 **tutor tour guide**
 (it's needed to speak a second language at minimum intermediate level)
@@ -43,7 +44,7 @@
 - languages you speak
 - price per class | 4 classes | 10 classes
 
-**tutor native speaker/ teacher/ certificated speaker**.
+**Casual tutor - native speaker/ teacher/ certificated speaker**.
 - (it's needed to speak a second language at minimum intermediate level)
 
 - video presentation
@@ -52,9 +53,26 @@
 - language proficiency
 - image (can be face photo or avatar)
 - price per class | 4 classes | 10 classes
+
+
+**Regular Tutor-- native speaker/ teacher/ certificated speaker** 
+
+- In proficiency certification topic
+
+- (it's needed to speak a second language at minimum intermediate level)
+
 - make the training of talk away approach (it will generate a certification)
 
-**Traveling Student**
+- video presentation
+- full name 
+- location 
+- language proficiency
+- image (can be face photo or avatar)
+- price per class | 4 classes | 10 classes
+
+
+
+**Casual Student**
 
 - proficiency level of the language you will learn
 - languages you speak 
@@ -74,7 +92,7 @@
 
 
 
-**2 showcases** Talk Walk Tour | Walking Lessons
+**2 showcases** Talk Walk Tour | Casula Walking Lessons | Certificated lessons
 
 **Community at discord** 
 - Private tutors forum at discord 
@@ -92,12 +110,16 @@ Check in and check out of each experience
 
 **Student Journey**
 
+For all students>>
+
 After checking in, the student sees the Journey logbook:
 
 Each lesson, the student writes down the main topics talked about on the walk; the tutor responds in a comment and checks in the student's writing. 
 
-After the check, the student gets an SBT record of the walkthrough that is included in the history of the change of level certificate (onchain)
+After the check, the student gets an NFT record of the walkthrough, for regular students,
+that is included in the history of the change of level certificate (onchain) 
 
+Regular students >>
 Below the note space there will be 4 topics with the skills needed for level change, 
 
 The tutor will check each of them according to the student's process. 
@@ -108,6 +130,8 @@ only can be released with at minimum 8 walking lessons.
 The students can schedule a free online meeting for proficiency evaluation and start in a specific level.
 
 Each writing on the hikes will accumulate, building up a big notebook and go into a specific folder (offchain)
+
+For all students >>
 
 Will have a phrases propose while the walking, the student will choose if he is on street or in a coffee, for exemple,
 and each 10 minutoes the app will suggest a phrase like this: "stop and look the heaven" or "touch the table and indentificate your material" 
