@@ -126,9 +126,10 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 Check in and check out of each experience
 
-**Student Journey**
+# Student Journey
 
-For all students>>
+**For all students**
+
 
 After checking in, the student sees the Journey logbook:
 
@@ -138,6 +139,7 @@ After the check, the student gets an NFT record of the walkthrough, for regular 
 that is included in the history of the change of level certificate (onchain) 
 
 **Regular students**
+
 Below the note space there will be 4 topics with the skills needed for level change, 
 
 The tutor will check each of them according to the student's process. 
