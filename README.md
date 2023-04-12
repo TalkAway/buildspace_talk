@@ -137,7 +137,7 @@ Each lesson, the student writes down the main topics talked about on the walk; t
 After the check, the student gets an NFT record of the walkthrough, for regular students,
 that is included in the history of the change of level certificate (onchain) 
 
-Regular students >>
+**Regular students**
 Below the note space there will be 4 topics with the skills needed for level change, 
 
 The tutor will check each of them according to the student's process. 
@@ -149,7 +149,7 @@ The students can schedule a free online meeting for proficiency evaluation and s
 
 Each writing on the hikes will accumulate, building up a big notebook and go into a specific folder (offchain)
 
-For all students >>
+**For all students**
 
 Will have a phrases propose while the walking, the student will choose if he is on street or in a coffee, for exemple,
 and each 10 minutoes the app will suggest a phrase like this: "stop and look the heaven" or "touch the table and indentificate your material" 
@@ -163,18 +163,17 @@ and each 10 minutoes the app will suggest a phrase like this: "stop and look the
 
 **walk tour product**  
 
+different prices for:
+
 - 4 hours
 - 6 hours 
 - 8 hours 
 - by night - 3 hours 
-
-**individual tutoring guide**
-
 - 1
 - 2
 - 3-4 pax
 
-**Walking Lessons
+**Walking Lessons without tour**
 
 - per hour 
 - 4 lessons 
@@ -186,7 +185,7 @@ and each 10 minutoes the app will suggest a phrase like this: "stop and look the
 **TECHNICAL PART AND PROJECT DETAILS**
 
 
-The smart contract will handle the following:
+**The smart contract will handle the following**
 
 Create new user It will create a new user, either a free student or a certificate student.
 Create new tutor It will create a tutor with information about the courses, services he will provide, and the price for his lesson.
@@ -196,23 +195,23 @@ Pay per lesson: it will get the predefined price from the student and save it to
 Payment for multiple classes will be an offer to get some discounts.
 Certificate generation
 
-Transfer payment to tutor: 
+**Transfer payment to tutor**
 
 it will send the money from the website address to the tutor's address after the user call the check class successfully.
 Check class for user: after each class, the user -student- will call this function so the class passes successfully 
 and the money can be transferred to the tutor.
 
-Check level: 
+**Check level** 
 
 this function will be called by the tutor only and return the level of the user To be able to handle the 
 following information we need to create a struct for the user, tutor, certification
 Part of the classes payment will go to social projects that will be voted on by community: voting system and distribution of the fund.
 
-Small enums:
+**Small enums**
 
 User type: student-tutor Level enum: determine the level the student has Student type enum: free - with certificate
 
-Student info will be saved on the contract:
+**Student info will be saved on the contract**
 
 User id
 User name
@@ -223,7 +222,7 @@ Certificate
 Has payed
 Has checked
 
-Tutor info will be saved on the contract:
+**Tutor info will be saved on the contract**
 
 User id
 User name
@@ -233,7 +232,7 @@ Certification will be SBTs and will be minted at the end of each level.
 
 Technical parts: The stack will be React.js, node.js, and mongoose.
 
-Dapp Solid overview:
+**Dapp Solid overview**
 
 The home page contains classes and tutor info.
 Forms for creating a user/tutor.
