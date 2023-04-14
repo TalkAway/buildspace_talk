@@ -62,16 +62,6 @@ We also aim to connect people from all over the world, fostering greater awarene
 - languages you speak
 - price per class | 4 classes | 10 classes
 
-**Casual tutor - native speaker/ teacher/ certificated speaker**.
-- (it's needed to speak a second language at minimum intermediate level)
-
-- video presentation
-- full name 
-- location 
-- language proficiency
-- image (can be face photo or avatar)
-- price per class | 4 classes | 10 classes
-
 
 **Regular Tutor-- native speaker/ teacher/ certificated speaker** 
 
