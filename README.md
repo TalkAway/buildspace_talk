@@ -170,6 +170,9 @@ different prices for:
 - per hour 
 - 4 lessons 
 - 10 lessons 
+- 1
+- 2
+- 3-4 pax
 
 *All lessons have discount copum possibilities 
 
