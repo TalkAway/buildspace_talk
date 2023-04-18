@@ -24,14 +24,13 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 **Types**
 
-**Casual Student**: Earns level 0 certificate only | takes between 1-4 classes | Traveler | Digital Nomad |  
+** Traveler Student**: Earns level 0 certificate only | takes between 1-4 classes | Traveler | Digital Nomad |  
 
 **Regular Student**: Earns up to 6 certificates | takes 4 or more classes | City Resident
 
 **Tour Guide Instructor: Certified Tour Guide in Rio de Janeiro and associated to LIGUIA, works with groups of up to 4 students 
 | need to do a formation of Talk Away - recorded classes.
 
-**Casual Tutor**: Native |Does not need to be a teacher 
 
 **Regular Tutor** This tutor can give the proficiency level certification | need to do a formation of Talk Away - recorded classes.
 
@@ -39,7 +38,6 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 **Topics**
 
-- Casual lessons 
 
 - Certificated Lessons
 
@@ -80,7 +78,7 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 
 
-**Casual Student**
+**Traveler Student**
 
 - proficiency level of the language you will learn
 - languages you speak 
@@ -100,7 +98,7 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 
 
-**2 showcases** Talk Walk Tour | Casula Walking Lessons | Certificated lessons
+**2 showcases** Walking Class | Walking Class Tour
 
 **Community at discord** 
 - Private tutors forum at discord 
@@ -111,7 +109,7 @@ We also aim to connect people from all over the world, fostering greater awarene
 
 # Internal Structure
 
-**GPS para acompanhar a caminhada od tutor e estudante**
+**GPS para acompanhar a caminhada do tutor e estudante**
 
 
 Check in and check out of each experience
@@ -134,9 +132,7 @@ Below the note space there will be 4 topics with the skills needed for level cha
 
 The tutor will check each of them according to the student's process. 
 
-When they are all filled in, the student receives the SBT of proficiency level (onchain), but each level certification
-only can be released with at minimum 8 walking lessons.
-
+When they are all filled in, the student receives the SBT of proficiency level (onchain), but each walking generate one NFT (no certificate).
 The students can schedule a free online meeting for proficiency evaluation and start in a specific level.
 
 Each writing on the hikes will accumulate, building up a big notebook and go into a specific folder (offchain)
